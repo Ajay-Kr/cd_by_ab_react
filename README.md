@@ -11,6 +11,7 @@ CDN used
 To run the project...
 ```sh
 cd cd_by_ab_react
+npm install
 npm start
 ```
 
